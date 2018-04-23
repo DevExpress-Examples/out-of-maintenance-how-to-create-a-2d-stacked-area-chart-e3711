@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StackedAreaChart", "StackedAreaChart\StackedAreaChart.vbproj", "{486A5580-F09B-437B-B69C-40F8F0FE37C7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StackedAreaChart.Web", "StackedAreaChart.Web\StackedAreaChart.Web.vbproj", "{E5C7F98C-49B3-4513-9A8A-67CA77D35331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486A5580-F09B-437B-B69C-40F8F0FE37C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486A5580-F09B-437B-B69C-40F8F0FE37C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486A5580-F09B-437B-B69C-40F8F0FE37C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486A5580-F09B-437B-B69C-40F8F0FE37C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C7F98C-49B3-4513-9A8A-67CA77D35331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C7F98C-49B3-4513-9A8A-67CA77D35331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C7F98C-49B3-4513-9A8A-67CA77D35331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C7F98C-49B3-4513-9A8A-67CA77D35331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
