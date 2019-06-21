@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/StackedAreaChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StackedAreaChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Stacked Area chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3711)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Stacked Area chart.</p><br />
